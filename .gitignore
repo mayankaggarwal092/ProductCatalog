@@ -1,0 +1,30 @@
+## Build Results
+bin/
+obj/
+out/
+Generated/
+
+## Visual Studio Code
+.vscode/
+.history/
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+
+## Logs
+*.log
+logs/
+
+## Others
+*.vspscc
+*.vssscc
+*.tmp
+*.bak
+*.swp
+appsettings.json
+appsettings.Development.json
